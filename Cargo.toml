@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "app",
+    "plugin-demo",
+    "plugin-model",
+    "plugin-system",
+]
